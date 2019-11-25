@@ -1,0 +1,16 @@
+{
+  "name": "tennistider.club.scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:sunker/tennistider.club.scraper.git",
+  "author": "Erik Sundell <erik.sundell87@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "fetch": "^1.1.0",
+    "node-fetch": "^2.6.0",
+    "puppeteer": "^2.0.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
